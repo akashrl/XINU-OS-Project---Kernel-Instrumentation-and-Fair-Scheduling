@@ -1,5 +1,9 @@
 # XINU-OS-Project---Kernel-Instrumentation-and-Fair-Scheduling
 
+This Lab Project may be viewed here: https://www.cs.purdue.edu/homes/cs354/lab3/lab3.html
+
+The modified source code is under `xinu-spring2020/system/` and `xinu-spring2020/include/`.
+
 ## Objectives
 The objectives of this lab are to instrument XINU to monitor system performance and implement a simplified version of Linux CFS in XINU.
 
